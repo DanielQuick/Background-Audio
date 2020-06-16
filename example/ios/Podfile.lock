@@ -1,0 +1,22 @@
+PODS:
+  - background_audio (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - background_audio (from `.symlinks/plugins/background_audio/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  background_audio:
+    :path: ".symlinks/plugins/background_audio/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  background_audio: 200b61324025dfbd883a0419abe6de9be0b885b3
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.0
